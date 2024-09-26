@@ -8,7 +8,7 @@ import HeroImg from "../Assets/Hero.png";
 
 export default function Hero() {
   return (
-    <section className="flex flex-col md:flex-row px-5 md:py-32 bg-secondary justify-center">
+    <section className="flex flex-col md:flex-row px-5 md:py-5 bg-secondary justify-center">
       <div className="md:w-1/2">
         <h1 className="text-white text-6xl mt-10 font-hero-font md:ml-24 ">
           {" "}
