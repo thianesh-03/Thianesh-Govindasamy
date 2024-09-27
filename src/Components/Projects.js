@@ -7,7 +7,7 @@ import websiteImg6 from "../Assets/website6.png";
 
 export default function Projects() {
     return (
-        <section id="projects" className="flex flex-col px-5 py-20 justify-center bg-secondary text-white">
+        <section id="projects" className="flex flex-col px-5 py-10 md:py-20 justify-center bg-secondary text-white">
             <div className="w-full">
                 <div className="flex flex-col px-10 py-5">
                     <h1 className="text-4xl text-white border-b-2 mb-4 w-[140px] font-bold">Projects</h1>
