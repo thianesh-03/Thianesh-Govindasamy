@@ -16,17 +16,17 @@ export default function Hero() {
           <p className="text-2xl">I'm a Full-Stack developer</p>
         </h1>
         <div className="flex md:ml-24 py-10">
-          <a href="thianesh2003@gmail.com" className="pr-5 hover:text-white">
-            <AiOutlineMail size={40} />
+          <a href="thianesh2003@gmail.com" className="pr-5 text-white hover:text-black">
+            <AiOutlineMail size={30} />
           </a>
-          <a href="https://www.linkedin.com/in/thianesh-g-686975200" className="pr-5 hover:text-white">
-            <AiOutlineLinkedin size={40} />
+          <a href="https://www.linkedin.com/in/thianesh-g-686975200" className="pr-5 text-white hover:text-black">
+            <AiOutlineLinkedin size={30} />
           </a>
-          <a href="https://github.com/thianesh-03" className="pr-5 hover:text-white">
-            <AiOutlineGithub size={40} />
+          <a href="https://github.com/thianesh-03" className="pr-5 text-white hover:text-black">
+            <AiOutlineGithub size={30} />
           </a>
-          <a href="https://x.com/ThianeshGovind1" className="hover:text-white">
-            <AiOutlineTwitter size={40} />
+          <a href="https://x.com/ThianeshGovind1" className="text-white hover:text-black">
+            <AiOutlineTwitter size={30} />
           </a>
         </div>
       </div>
