@@ -1,7 +1,5 @@
-import resumeImg from "../Assets/resumeSample.png";
-
 export default function Contact() {
-    return <section className="flex flex-col  bg-secondary py-32 px-5">
+    return <section id="contact" className="flex flex-col  bg-secondary py-32 px-5">
         <div className="flex flex-col items-center text-white">
                 <h1 className="text-4xl border-b-2 mb-4 w-[140px] font-bold">Contact</h1>
                 <p>If you want to discuss more in detail, please contact me</p>
