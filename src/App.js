@@ -5,7 +5,7 @@ import Footer from './Components/Footer';
 import Header from './Components/Header';
 import Hero from './Components/Hero';
 import Projects from './Components/Projects';
-import Resume from './Components/Resume'
+import Resume from './Components/Resume';
 
 function App() {
   return (
